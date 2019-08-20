@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zar Adam</string>
+    <string name="roll_label">Zar At</string>
+    <string name="count_up_label">+1 Ekle</string>
+    <string name="reset_label">Sıfırla</string>
+    <string name="result_label">Merhaba Dünya!</string>
+</resources>
